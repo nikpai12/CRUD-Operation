@@ -1,0 +1,27 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "A simple package to learn MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/adithyapaib/mongocec"
+  },
+  "keywords": [
+    "cec",
+    "mongo",
+    "workshop"
+  ],
+  "author": "Adithya Pai B",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
